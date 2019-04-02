@@ -1,0 +1,213 @@
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	background-color:cyan;
+}
+header{
+	margin: 0 auto;
+	height: 55px;
+	background-color: blue;
+	
+}
+
+
+.logo{
+	
+	width: 20%;
+	background-color: red;
+	height: 55px;
+	float: left;
+}
+
+.menu-bar{
+	width: 50%;
+	background-color: yellow;
+	height: 55px;
+	float: left;
+}
+
+.social-img{
+	width: 30%;
+	background-color: green;
+	height: 55px;
+	float: left;
+}
+
+/*section img*/
+
+.background{
+	background:  url('../img/bg.jpeg')repeat scroll center center/cover;
+
+    background-size: cover;
+
+height: 450px;
+
+margin-top: 0px;
+
+-webkit-background-size: cover;
+
+-moz-background-size: cover;
+
+-o-background-size: cover;
+
+background-size: cover;
+}
+.internal-div{
+	height: 350px;
+	width: 40%;
+	background-color: lightgray;
+	margin: 50px auto;
+	margin-left: 10%;
+	float: left;
+	opacity: 0.6;
+}
+
+h1{
+	
+	margin-top: 40px;
+	font-size: 38px;
+	color: #00000;
+	margin-left: 20%;
+}
+p{
+	margin-top: 0px;
+	font-size: 25px;
+	color: #00000;
+	margin-left: 20%;
+}
+.one{
+	margin-top: 95px;
+	margin-left: 20%;
+}
+.first{
+	 background-color: gray;
+	height:200px;
+	width: 25%;
+	float: left;
+	
+}
+.second{
+	 background-color: lightseagreen;
+	height:200px;
+	width: 25%;
+	float: left;
+}
+.third{
+	 background-color: lavender;
+	height:200px;
+	width: 25%;
+	float: left
+}
+.fourth{
+	 background-color: lightcoral;
+	height:200px;
+	width: 25%;
+	float: left
+}
+.div-one{
+	background-color: indigo;
+	height:250px;
+	width: 46%;
+	float: left;
+	margin-right: 8%;
+}
+.div-two{
+	background-color: crimson;
+	height:250px;
+	width: 46%;
+	float: left
+}
+
+
+h2{
+	margin-left: 48%;
+	
+}
+.div-third{
+	background-color: coral;
+	height:250px;
+	width: 50%;
+	float: left
+}
+.div-fourth{
+	background-color: blueviolet;
+	height:250px;
+	width: 50%;
+	float: left
+}
+.div-fifth{
+	background-color: lightblue;
+	height:160px;
+	width: 100%;
+	float: left
+}
+.div-sixth{
+	background-color: lavender;
+	height:100px;
+	width: 100%;
+	float: left
+}
+.div-eight{
+	background-color: gray;
+	height:60px;
+	width: 100%;
+	float: left
+}
+
+.div-seventh{
+	background-color: gray;
+	height:140px;
+	width: 100%;
+	float: left
+}
+
+.seven-one{
+	background-color: lightcoral;
+	height:140px;
+	width: 20%;
+	float: left
+}
+
+.seven-two{
+	background-color: lightgreen;
+	height:140px;
+	width: 20%;
+	float: left
+}
+.seven-three{
+	background-color: blueviolet;
+	height:140px;
+	width: 20%;
+	float: left
+}
+.seven-four{
+	background-color: violet;
+	height:140px;
+	width: 20%;
+	float: left
+}
+.seven-five{
+	background-color: yellowgreen;
+	height:140px;
+	width: 20%;
+	float: left
+}
+
+
+
+
+
+.footer-div{
+	background-color: dodgerblue;
+	height:70px;
+	width: 50%;
+	float: left
+}
+.footer{
+	background-color: seagreen;
+	height:70px;
+	width: 50%;
+	float: left
+}
+
+
